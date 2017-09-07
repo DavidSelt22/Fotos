@@ -1,0 +1,2 @@
+# Fotos
+Galería de fotos
